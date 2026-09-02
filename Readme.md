@@ -51,7 +51,7 @@ IntelliStatement is a sophisticated bank statement analysis tool that combines m
 1. Clone the repository:
 ```bash
 git clone https://github.com/BiswasMosam/LLM-bank-statement-analyzer.git
-cd Sedna-bank-statement
+cd LLM-bank-statement-analyzer
 ```
 
 2. Set up the virtual environment:
